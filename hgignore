@@ -1,0 +1,14 @@
+syntax: glob
+*/bin
+*.dll
+*/obj
+*.suo
+*/packages
+*.user
+*.orig
+*/App_Data
+*/Logs
+*.bat
+*/applicationhost.config
+*.dacpac
+*.dbmdl
